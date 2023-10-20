@@ -6,7 +6,7 @@ subtitle: <a href='#'>李雪垚</a>. nice to meet you！welcome！
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: st.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>南京大学仙林校区7栋210</p>
