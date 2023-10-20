@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: 毕业旅行-贵州
+description: 本科的毕业旅行，去往贵阳、黄果树瀑布、西江千户苗寨等
 img: assets/img/12.jpg
 importance: 1
 category: work
