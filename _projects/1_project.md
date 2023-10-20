@@ -2,7 +2,7 @@
 layout: page
 title: 毕业旅行-贵州
 description: 本科的毕业旅行，去往贵阳、黄果树瀑布、西江千户苗寨等
-img: assets/img/12.jpg
+img: assets/img/project1.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning

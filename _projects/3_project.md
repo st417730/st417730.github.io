@@ -3,7 +3,7 @@ layout: page
 title: 南京大学120周年校庆-南京
 description: 作为新闻传播学院代表参与南京大学120周年校庆升旗仪式
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://project3.com
 importance: 3
 category: work
 ---

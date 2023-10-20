@@ -2,7 +2,7 @@
 layout: page
 title: LIA伦敦广告节-清迈
 description: 作为工作人员参与LIA伦敦广告节
-img: assets/img/3.jpg
+img: assets/img/project2.jpg
 importance: 2
 category: work
 giscus_comments: true
